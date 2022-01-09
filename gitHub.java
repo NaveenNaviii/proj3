@@ -4,4 +4,8 @@ class gitHub
 	{
 		System.out.println("Hello GitHub");
 	}
+	public double add(double a,double b}
+	{
+		return a+b;
+	}
 }
