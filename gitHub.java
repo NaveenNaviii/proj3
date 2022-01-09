@@ -4,8 +4,13 @@ class gitHub
 	{
 		System.out.println("Hello GitHub");
 	}
+
 	public double div(double a,double b}
 	{
 		return a/b;
+  }
+	public double sub(double c,double d}
+	{
+		return c-d;
 	}
 }
